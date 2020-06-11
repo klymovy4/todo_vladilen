@@ -1,4 +1,4 @@
-Это приложение можно посмотреть за линком https://react-hooks-demo-533a3.firebaseapp.com/
+ =>Это приложение можно посмотреть за линком https://react-hooks-demo-533a3.firebaseapp.com/
 https://www.youtube.com/watch?v=V1rhxheJg4A
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
